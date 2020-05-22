@@ -88,5 +88,6 @@ generateBtn.addEventListener("click", function() {
   uppercaseConfirm();
   symbolsConfirm();
   numbersConfirm();
+  generatePassword();
   writePassword();
 });
