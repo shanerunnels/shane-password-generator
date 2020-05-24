@@ -2,8 +2,6 @@
 
 Here's the site link https://shanerunnels.github.io/shane-password-generator/
 
-I attempted to share a screenshot of the project, but it wasn't working for me. 
-
 This was definitely a tougher project. Mostly because of my frustrations with JS. But I'll get a handle on it soon! I'm sure there are other, quicker ways to handle 
 
 GIVEN I need a new, secure password
@@ -21,3 +19,5 @@ WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
+
+![Image of page](assets/Screen Shot 2020-05-22 at 2.01.40 PM 2.png)
