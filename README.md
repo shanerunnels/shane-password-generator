@@ -2,7 +2,7 @@
 
 Here's the site link https://shanerunnels.github.io/shane-password-generator/
 
-I attempted to put a picture of the finished product in here, but I couldn't figure that out. 
+Screenshot of the project. ![Screen Shot 2020-05-22 at 2.01.40 PM 2]
 
 This was definitely a tougher project. Mostly because of my frustrations with JS. But I'll get a handle on it soon! I'm sure there are other, quicker ways to handle 
 
